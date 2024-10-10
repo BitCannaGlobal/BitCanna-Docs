@@ -15,17 +15,17 @@ Inflation is infinite until decided otherwise by on-chain governance. This means
 
 ### **Staking**
 
-Don’t know what staking is? Head [**here**](/pages/concepts-terms/staking.md).
+Don’t know what staking is? Head [**here**](/pages/concepts-terms/staking).
 
 * Unbonding time = 14 days
 * Max validators = 100
 * Gas price = 0.001ubcna**\***
 
-**\***Don't know what ubcna is? Read all about it [**here**](/pages/faq/ubcna-bcna.md).
+**\***Don't know what ubcna is? Read about it in the FAQ [**here**](/pages/faq/validators-faq).
 
 ### **Slashing**
 
-Don’t know what slashing is? Head [**here**](/pages/concepts-terms/slashing.md).
+Don’t know what slashing is? Head [**here**](/pages/concepts-terms/slashing).
 
 * Jailing after failing to sign blocks for consecutively = 24 hours
 * Balance slashing for downtime = 0.5%
