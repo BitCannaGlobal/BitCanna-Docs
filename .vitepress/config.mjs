@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: "/BitCanna-Docs/",
+  base: "/",
   title: "BitCanna",
   description: "Docs and guides",
   sitemap: { hostname: "https://docs.bitcanna.io/" },
