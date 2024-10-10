@@ -23,7 +23,7 @@ Double signing occurs when a validator signs two blocks at the same block height
 Disciplinary action in the form of slashing is taken against a validator's entire BCNA balance. Both the validator and its delegators face repercussions such as slashing or jailing.
 
 #### Jailing
-Jailing is a means of "detaining" a validator, making them unable to sign blocks and putting them in an [unbonding](validators-and-delegators.md#unbonding)state so they cannot continue any misconduct. However, because failing to comply with the chain's rules could be accidental, validators can request an un-jailing, allowing them to continue signing blocks.
+Jailing is a means of "detaining" a validator, making them unable to sign blocks and putting them in an [unbonding](validators-and-delegators.md#unbonding) state so they cannot continue any misconduct. However, because failing to comply with the chain's rules could be accidental, validators can request an un-jailing, allowing them to continue signing blocks.
 
 For instance, a local server outage could mean a validator exceeds the downtime limit. However, because the intent was not malicious, validators may request un-jailing. Although severe, jailing helps prevent a validator and all parties involved from continuing misconduct, while simultaneously giving leeway to situations such as server downtime.
 

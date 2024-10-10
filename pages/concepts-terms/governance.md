@@ -46,4 +46,4 @@ If any of the conditions above are not met, the deposit for the denied proposal 
 
 If the "no with veto" limit of 49% is exceeded, the proposal deposit is retained by the blockchain and any backers are slashed. The slashed amount is also sent to the community pool.
 
-Interested in becoming a part of the BitCanna blockchain? Take part by [staking](staking.md)BCNA or becoming a validator.
+Interested in becoming a part of the BitCanna blockchain? Take part by [staking](staking.md) BCNA or becoming a validator.

@@ -70,18 +70,7 @@ export default defineConfig({
       {
         text: "❓ FAQ",
         items: [
-          { 
-            text: "Validators",
-            link: "/pages/faq/validators-faq",
-            collapsed: true,
-            items: [
-              { text: "What is a full node/validator node?", link: "/pages/faq/full-node-validator-node" },
-              { text: "What are the requirements to become a validator?", link: "/pages/faq/requirements-validator" },
-              { text: "Why do I see such large amounts of ubcna/bcna?", link: "/pages/faq/ubcna-bcna" },
-              { text: "How do I change validator details?", link: "/pages/faq/change-validator-details" },
-              { text: "How do I add an image for my validator on the web wallet and explorer?", link: "/pages/faq/image-for-validator" }
-            ] 
-          }
+          { text: "Validators", link: "/pages/faq/validators-faq", }
         ]
       }
     ],
